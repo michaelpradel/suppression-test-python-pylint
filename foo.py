@@ -6,3 +6,6 @@ def fun_above():
 def another_fun(x):
     # pylint: disable=all
     return x + 1
+
+def some_fun(a, b):  # pylint: disable=invalid-name
+    return a + b
