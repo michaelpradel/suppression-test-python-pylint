@@ -1,2 +1,2 @@
-def some_fun(a, b):  # pylint: disable=invalid-name
-    return a + b
+def some_fun(a, c):  # pylint: disable=invalid-name
+    return a + c
